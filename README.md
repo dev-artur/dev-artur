@@ -48,9 +48,13 @@ Building **Focus** — a DAW with an AI producer. TypeScript across the stack, T
 desktop, spec-first development with CI gates. I own billing end to end, auth, and the
 agent tooling.
 
-Publishing independent implementations of the architecture I work with daily, written
-from scratch: a white-label starter and a UI kit for iGaming mechanics. Links will
-appear here as they land.
+## Open-source portfolio
+
+Implementations of the architecture I work with daily — sanitized and published as portfolio pieces:
+
+- **[casino-core](https://github.com/dev-artur/casino-core)** — shared React/Redux library for casino platform frontends. 12 Redux Toolkit slices, API layer, CoreProvider pattern, utility functions. Vite 7 library mode.
+- **[casino-frontend](https://github.com/dev-artur/casino-frontend)** — white-label casino SPA. CMS-driven lobby, game catalog with virtualized grid, payments (crypto/P2P/QR), auth, profile, bonuses, i18n, PWA. React 18, Redux Toolkit, SCSS.
+- **[casino-lobby-demo](https://github.com/dev-artur/casino-lobby-demo)** — standalone casino lobby demo. React 19, TypeScript, Tailwind CSS 4, @tanstack/react-virtual, Vitest. 13 unit tests.
 
 ## Contact
 
