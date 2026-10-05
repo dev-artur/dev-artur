@@ -56,6 +56,7 @@ Implementations of the architecture I work with daily — sanitized and publishe
 - **[casino-frontend](https://github.com/dev-artur/casino-frontend)** — white-label casino SPA. CMS-driven lobby, game catalog with virtualized grid, payments (crypto/P2P/QR), auth, profile, bonuses, i18n, PWA. React 18, Redux Toolkit, SCSS.
 - **[casino-lobby-demo](https://github.com/dev-artur/casino-lobby-demo)** — standalone casino lobby demo. React 19, TypeScript, Tailwind CSS 4, @tanstack/react-virtual, Vitest. 13 unit tests.
 - **[casino-lobby-demo-vue](https://github.com/dev-artur/casino-lobby-demo-vue)** — same lobby demo rebuilt in Vue 3. Composition API, TypeScript, Tailwind CSS 4, @tanstack/vue-virtual, Vitest. 13 unit tests.
+- **[valeri](https://github.com/dev-artur/valeri)** — production portfolio & catalog site for an artist ([live](https://valericherni.vercel.app)). Next.js 16 App Router, embedded Sanity Studio, static pages with webhook-driven revalidation, Sanity image CDN loader with hotspot crops, Tailwind CSS 4.
 
 ## Contact
 
